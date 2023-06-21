@@ -15,3 +15,8 @@ body{
     margin: 30px;
     left: -30px;
 }
+#nav{
+    position: fixed;
+    z-index: 2;
+    width: 100%;
+}
